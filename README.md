@@ -1,8 +1,8 @@
 <h2 align="center"> Hey, I'm David Rakra (🇧🇷) </h2>
-<p align="center"> 🔭 I’m currently working on web applications and programming in back-end </p>
+<p align="center"> 🪲 🖥️ I’m currently working on web applications and programming in back-end </p>
 
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/c9ed0ce649007e8cb7d812f4c4529e85/tumblr_ovy1xizHrR1wz3o6do5_500.gifv" />
+  <img height="300" src="https://64.media.tumblr.com/8536c2f8608b362d428b10c957493a10/tumblr_o1fplwNZYT1rkmjxwo1_500.gifv" />
 </div>
 
 <!--
