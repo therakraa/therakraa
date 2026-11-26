@@ -1,4 +1,9 @@
-## Hi there 👋
+<h2 align="center"> Hey, I'm David Rakra (🇧🇷) </h2>
+<p> 🔭 I’m currently working on web applications and programming in back-end </p>
+
+<div align="center">
+  <img height="300" src="https://64.media.tumblr.com/c9ed0ce649007e8cb7d812f4c4529e85/tumblr_ovy1xizHrR1wz3o6do5_500.gifv" />
+</div>
 
 <!--
 **therakraa/therakraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
