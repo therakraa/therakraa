@@ -2,7 +2,7 @@
 <p align="center"> 🪲 🖥️ I’m currently working on web applications and programming in back-end </p>
 
 <div align="center">
-  <img height="300" width="500" length="500" src="https://64.media.tumblr.com/8536c2f8608b362d428b10c957493a10/tumblr_o1fplwNZYT1rkmjxwo1_500.gifv" />
+  <img height="500" width="500" length="500" src="https://64.media.tumblr.com/8536c2f8608b362d428b10c957493a10/tumblr_o1fplwNZYT1rkmjxwo1_500.gifv" />
 </div>
 
 <!--
