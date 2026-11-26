@@ -1,4 +1,4 @@
-<h2 align="center"> Hey, I'm David Rakra (🇧🇷) </h2>
+<h2 align="center"> Hey, I'm David (🇧🇷) </h2>
 <p align="center"> 🪲 🖥️ I’m currently working on web applications and programming in back-end </p>
 
 <div align="center">
